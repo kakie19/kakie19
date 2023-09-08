@@ -5,9 +5,9 @@
 ## Hey! 👋
 I'm Karl Santiago, a 23 years old Computer Science student from Philippines.
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+- 🦔 Founder of [Tip Gaming](https://www.facebook.com/gaming/tipgaming1929/)
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+- 👨‍💻 Studying at [CSPC](https://cspc.edu.ph/) ([FINALIST of Algolympics 2023](https://www.facebook.com/photo?fbid=587739600049902&set=a.456992799791250)) ([2022 ICPC ASIA-MANILA REGIONALS: TEAM COUP DE GRACE](https://www.facebook.com/photo.php?fbid=181129601350748&set=pb.100083611260599.-2207520000&type=3))
 
 - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
