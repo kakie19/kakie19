@@ -17,7 +17,7 @@ I'm Karl Santiago, a 23 years old Computer Science student from Philippines.
 - 👨‍💻 Python, C, C++
 - ⚙️ HTML, CSS, PHP, Javascript, Flask, Laravel
 - 👁️ Machine Learning, Artificial Intelligence
-- 💽 MySQL, SQL, Mongo
+- 💽 MySQL, SQL, SQlite
 + a lot more :D
 
 ## Contact
